@@ -15,3 +15,6 @@ This repository contains the following projects:
 
 5. **World Bank indicators:** analysis of the [*World Bank indicators*](https://data.worldbank.org/) relevant for illegal dumping.\
    *keywords:* Python, Pandas, Clustering, Data Analysis, Visualization, Geopandas
+   
+6. **Energy Demand Forecasting:** predicting energy demand for renewable energies using Deep Learning. Project developed during the [*Deep Learning Datathon 2020*](https://ai4impact.org/dld.html) hosted by [*AI4Impact*](https://ai4impact.org/index.html). \
+   *keywords:* Time Series, Neural Networks, Deep Learning, TensorFlow, Keras.   

@@ -13,7 +13,7 @@ This repository contains the following projects:
 
 4. **Finding Waldo:** application of *image recognition* with Neural Networks to the game [*Where's Waldo*](https://en.wikipedia.org/wiki/Where%27s_Wally%3F).\
    *keywords:* Python, Neural Networks, Image Recognition, TensorFlow, Keras.\
-   <img src="34003.png" width="200">
+   <img src="34003.jpg" width="200">
 
 5. **World Bank indicators:** analysis of the [*World Bank indicators*](https://data.worldbank.org/) relevant for illegal dumping.\
    *keywords:* Python, Pandas, Clustering, Data Analysis, Visualization, Geopandas

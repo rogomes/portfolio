@@ -1,7 +1,7 @@
 # Portfolio
 This repository contains the following projects:
 
-1. **Tetris Game:** an implementation of Tetris using `pygame` created during the [*Build 2.0* workshop](https://thegirlcode.co/build/) hosted by *The Girl Code*.\
+1. [**Tetris Game:**](https://github.com/rogomes/portfolio/blob/master/tetris/tetris-pygame.ipynb) an implementation of Tetris using `pygame` created during the [*Build 2.0* workshop](https://thegirlcode.co/build/) hosted by *The Girl Code*.\
    *keywords:*  Python, Pygame\
                                  <img src="tetris3.png" width="200">
 

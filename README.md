@@ -2,7 +2,8 @@
 This repository contains the following projects:
 
 1. **Tetris Game:** an implementation of Tetris using `pygame` created during the [*Build 2.0* workshop](https://thegirlcode.co/build/) hosted by *The Girl Code*.\
-   *keywords:*  Python, Pygame
+   *keywords:*  Python, Pygame\
+                                 <img src="tetris3.png" width="200">
 
 2. **Monty Hall problem:** study and simulation of the *Monty Hall problem* using Python.\
    *keywords:* statistics, probability, Python, Monte Carlo simulation.
@@ -11,7 +12,8 @@ This repository contains the following projects:
    *keywords:* Python, Data Analysis, Random Forrest, Support Vector Machines, XGBoosting, Ensemble Models, Neural Networks, TensorFlow.
 
 4. **Finding Waldo:** application of *image recognition* with Neural Networks to the game [*Where's Waldo*](https://en.wikipedia.org/wiki/Where%27s_Wally%3F).\
-   *keywords:* Python, Neural Networks, Image Recognition, TensorFlow, Keras.
+   *keywords:* Python, Neural Networks, Image Recognition, TensorFlow, Keras.\
+   <img src="34003.png" width="200">
 
 5. **World Bank indicators:** analysis of the [*World Bank indicators*](https://data.worldbank.org/) relevant for illegal dumping.\
    *keywords:* Python, Pandas, Clustering, Data Analysis, Visualization, Geopandas

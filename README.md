@@ -1,7 +1,7 @@
 # Portfolio
 This repository contains the following projects:
 
-1. **Tetris Game:** an implementation of Tetris using `pygame` created during the [*Build 2.0* workshop](https://thegirlcode.co/build/) hosted by *The Girl Code*.\
+1. [**Tetris Game:**](https://github.com/rogomes/portfolio/blob/master/tetris/tetris-pygame.ipynb) an implementation of Tetris using `pygame` created during the [*Build 2.0* workshop](https://thegirlcode.co/build/) hosted by *The Girl Code*.\
    *keywords:*  Python, Pygame\
                                  <img src="tetris3.png" width="200">
 
@@ -20,3 +20,4 @@ This repository contains the following projects:
    
 6. **Energy Demand Forecasting:** predicting energy demand for renewable energies using Deep Learning. Project developed during the [*Deep Learning Datathon 2020*](https://ai4impact.org/dld.html) hosted by [*AI4Impact*](https://ai4impact.org/index.html). \
    *keywords:* Time Series, Neural Networks, Deep Learning, TensorFlow, Keras.   
+<!-- comment -->

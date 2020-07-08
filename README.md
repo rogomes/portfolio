@@ -3,11 +3,11 @@ This repository contains the following projects:
 
 1. [**Tetris Game:**](https://github.com/rogomes/portfolio/blob/master/tetris/tetris-pygame.ipynb) an implementation of Tetris using `pygame` created during the [*Build 2.0* workshop](https://thegirlcode.co/build/) hosted by *The Girl Code*.\
    *keywords:*  Python, Pygame\
-                                 <img src="tetris3.png" width="200">
+                                 <img src="tetris3.png" width="150">
 
 2. [**Monty Hall problem:**](https://github.com/rogomes/portfolio/blob/master/monty_hall/MontyHall.ipynb) study and simulation of the *Monty Hall problem* using Python.\
    *keywords:* statistics, probability, Python, Monte Carlo simulation.
-   <img src="Monty_open_door.svg" width="200">
+   <img src="Monty_open_door.svg" width="300">
 
 
 3. **Disaster Response for Cyclones:** data analysis and modeling of the population affected by cyclones with Machine Learning techniques.\

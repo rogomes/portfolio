@@ -5,7 +5,7 @@ This repository contains the following projects:
    *keywords:*  Python, Pygame\
                                  <img src="tetris3.png" width="200">
 
-2. **Monty Hall problem:** study and simulation of the *Monty Hall problem* using Python.\
+2. [**Monty Hall problem:**](https://github.com/rogomes/portfolio/blob/master/monty_hall/MontyHall.ipynb) study and simulation of the *Monty Hall problem* using Python.\
    *keywords:* statistics, probability, Python, Monte Carlo simulation.
 
 3. **Disaster Response for Cyclones:** data analysis and modeling of the population affected by cyclones with Machine Learning techniques.\

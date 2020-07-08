@@ -6,8 +6,7 @@ This repository contains the following projects:
                                  <img src="tetris3.png" width="150">
 
 2. [**Monty Hall problem:**](https://github.com/rogomes/portfolio/blob/master/monty_hall/MontyHall.ipynb) study and simulation of the *Monty Hall problem* using Python.\
-   *keywords:* statistics, probability, Python, Monte Carlo simulation.
-   <img src="Monty_open_door.svg" width="300">
+   *keywords:* statistics, probability, Python, Monte Carlo simulation.   <img src="Monty_open_door.svg" width="200">
 
 
 3. **Disaster Response for Cyclones:** data analysis and modeling of the population affected by cyclones with Machine Learning techniques.\

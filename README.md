@@ -9,16 +9,16 @@ This repository contains the following projects:
    *keywords:* statistics, probability, Python, Monte Carlo simulation.   
                                   <img src="Monty_open_door.svg" width="230">
 
+3. [**World Bank indicators:**](https://github.com/rogomes/portfolio/blob/master/wbi_waste/WBI-TrashOut-Analysis.ipynb) analysis of the [*World Bank indicators*](https://data.worldbank.org/) relevant for illegal dumping.\
+   *keywords:* Python, Pandas, Clustering, Principle Component Analysis (PCA), Data Analysis, Visualization, Geopandas
 
-3. **Disaster Response for Cyclones:** data analysis and modeling of the population affected by cyclones with Machine Learning techniques.\
+4. **Disaster Response for Cyclones:** data analysis and modeling of the population affected by cyclones with Machine Learning techniques.\
    *keywords:* Python, Data Analysis, Random Forrest, Support Vector Machines, XGBoosting, Ensemble Models, Neural Networks, TensorFlow.
 
-4. **Finding Waldo:** application of *image recognition* with Neural Networks to the game [*Where's Waldo*](https://en.wikipedia.org/wiki/Where%27s_Wally%3F).\
+5. **Finding Waldo:** application of *image recognition* with Neural Networks to the game [*Where's Waldo*](https://en.wikipedia.org/wiki/Where%27s_Wally%3F).\
    *keywords:* Python, Neural Networks, Image Recognition, TensorFlow, Keras.\
    <img src="34003.jpg" width="200">
 
-5. **World Bank indicators:** analysis of the [*World Bank indicators*](https://data.worldbank.org/) relevant for illegal dumping.\
-   *keywords:* Python, Pandas, Clustering, Data Analysis, Visualization, Geopandas
    
 6. **Energy Demand Forecasting:** predicting energy demand for renewable energies using Deep Learning. Project developed during the [*Deep Learning Datathon 2020*](https://ai4impact.org/dld.html) hosted by [*AI4Impact*](https://ai4impact.org/index.html). \
    *keywords:* Time Series, Neural Networks, Deep Learning, TensorFlow, Keras.   

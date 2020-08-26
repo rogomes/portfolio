@@ -11,8 +11,10 @@ This repository contains the following projects:
 
 3. [**World Bank indicators:**](https://github.com/rogomes/portfolio/blob/master/wbi_waste/WBI-TrashOut-Analysis.ipynb) analysis of the [*World Bank indicators*](https://data.worldbank.org/) relevant for illegal dumping.\
    *keywords:* Python, Pandas, Clustering, Principle Component Analysis (PCA), Data Analysis, Visualization, Geopandas
+   
                                    <img src="wbi_waste/illegaldump.jpeg" width="200">
 
+<!--
 4. **Disaster Response for Cyclones:** data analysis and modeling of the population affected by cyclones with Machine Learning techniques.\
    *keywords:* Python, Data Analysis, Random Forrest, Support Vector Machines, XGBoosting, Ensemble Models, Neural Networks, TensorFlow.
 
@@ -23,4 +25,4 @@ This repository contains the following projects:
    
 6. **Energy Demand Forecasting:** predicting energy demand for renewable energies using Deep Learning. Project developed during the [*Deep Learning Datathon 2020*](https://ai4impact.org/dld.html) hosted by [*AI4Impact*](https://ai4impact.org/index.html). \
    *keywords:* Time Series, Neural Networks, Deep Learning, TensorFlow, Keras.   
-<!-- comment -->
+   comment -->

@@ -25,3 +25,12 @@ This repository contains the following projects:
 6. **Energy Demand Forecasting:** predicting energy demand for renewable energies using Deep Learning. Project developed during the [*Deep Learning Datathon 2020*](https://ai4impact.org/dld.html) hosted by [*AI4Impact*](https://ai4impact.org/index.html). \
    *keywords:* Time Series, Neural Networks, Deep Learning, TensorFlow, Keras.   
    comment -->
+
+
+## Licenses ##
+
+`34003.jpg`: Wikipedia (Public Domain)  
+
+`illegaldump.jpeg` : Photo by Antoine GIRET on [Unsplash](https://unsplash.com/)
+
+

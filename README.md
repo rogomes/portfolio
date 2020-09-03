@@ -10,8 +10,7 @@ This repository contains the following projects:
                                   <img src="Monty_open_door.svg" width="230">
 
 3. [**World Bank indicators:**](https://github.com/rogomes/portfolio/blob/master/wbi_waste/WBI-TrashOut-Analysis.ipynb) analysis of the [*World Bank indicators*](https://data.worldbank.org/) relevant for illegal dumping.\
-   *keywords:* Python, Pandas, Clustering, Principle Component Analysis (PCA), Data Analysis, Geopandas\ 
-   
+   *keywords:* Python, Pandas, Clustering, Principle Component Analysis (PCA), Data Analysis, Geopandas. \    
                                   <img src="wbi_waste/illegaldump.jpeg" width="200">
 
 

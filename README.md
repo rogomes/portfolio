@@ -14,16 +14,21 @@ This repository contains the following projects:
                                   <img src="wbi_waste/illegaldump.jpeg" width="200">
 
 
+4. [**NYC Community Service:**](https://github.com/rogomes/portfolio/blob/master/nyc_service/nyc_service.ipynb) analysis of the [*NYC Community Service*](https://data.world/city-of-ny/bquu-z2ht) desriptions and associated keywords to categories.\
+   *keywords:* Natural Language Processing, Ngrams, Wordclouds, Data Analysis.    
+                                  <img src="elaine-casap-qgHGDbbSNm8-unsplash.jpg" width="200">
+
+
 <!--
-4. **Disaster Response for Cyclones:** data analysis and modeling of the population affected by cyclones with Machine Learning techniques.\
+5. **Disaster Response for Cyclones:** data analysis and modeling of the population affected by cyclones with Machine Learning techniques.\
    *keywords:* Python, Data Analysis, Random Forrest, Support Vector Machines, XGBoosting, Ensemble Models, Neural Networks, TensorFlow.
 
-5. **Finding Waldo:** application of *image recognition* with Neural Networks to the game [*Where's Waldo*](https://en.wikipedia.org/wiki/Where%27s_Wally%3F).\
+6. **Finding Waldo:** application of *image recognition* with Neural Networks to the game [*Where's Waldo*](https://en.wikipedia.org/wiki/Where%27s_Wally%3F).\
    *keywords:* Python, Neural Networks, Image Recognition, TensorFlow, Keras.\
    <img src="34003.jpg" width="200">
 
    
-6. **Energy Demand Forecasting:** predicting energy demand for renewable energies using Deep Learning. Project developed during the [*Deep Learning Datathon 2020*](https://ai4impact.org/dld.html) hosted by [*AI4Impact*](https://ai4impact.org/index.html). \
+7. **Energy Demand Forecasting:** predicting energy demand for renewable energies using Deep Learning. Project developed during the [*Deep Learning Datathon 2020*](https://ai4impact.org/dld.html) hosted by [*AI4Impact*](https://ai4impact.org/index.html). \
    *keywords:* Time Series, Neural Networks, Deep Learning, TensorFlow, Keras.   
    comment -->
 
@@ -34,4 +39,5 @@ This repository contains the following projects:
 
 `illegaldump.jpeg` : Photo by Antoine GIRET on [Unsplash](https://unsplash.com/)
 
+`community.jpg` : Photo by Elaine Casap on [Unsplash](https://unsplash.com/)
 

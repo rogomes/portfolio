@@ -16,7 +16,7 @@ This repository contains the following projects:
 
 4. [**NYC Community Service:**](https://github.com/rogomes/portfolio/blob/master/nyc_service/nyc_service.ipynb) analysis of the [*NYC Community Service*](https://data.world/city-of-ny/bquu-z2ht) desriptions and associated keywords to categories.\
    *keywords:* Natural Language Processing, Ngrams, Wordclouds, Data Analysis.    
-                                  <img src="elaine-casap-qgHGDbbSNm8-unsplash.jpg" width="200">
+                                  <img src="community.jpg" width="200">
 
 
 <!--

@@ -2,9 +2,7 @@
 
 Hello there, I am [Rosana de Oliveira Gomes](https://www.linkedin.com/in/rosanaogomes/), a PhD in Astrophysics and Data scientist trying to change the world one day at a time. I have experience being a Lead Machine Learning Engineer and Project Manager in multiple projects related to social impact such as disaster management, renewable energies, sustainability and mobility.
 
-In my free time, I love spending time in more relaxing activities, such as [painting by number](https://www.liveabout.com/painting-by-numbers-2578775) or puzzles, which are part of my creative process:
-
-
+In my free time, I love spending time in more relaxing activities, such as [painting by number](https://www.liveabout.com/painting-by-numbers-2578775) or puzzles (part of my creative process):
                                  <img src="photo.jpeg" width="400">
 
 
@@ -65,7 +63,7 @@ Find below some of my side projects, selected for this repository:
 
 ## Publications: ##
 
-* Check [my Google Scholar](https://scholar.google.de/citations?user=zlXNBA0AAAAJ&hl=en) for publications on Astrophysics (Neutron Stars research)
+* Check [my Google Scholar](https://scholar.google.de/citations?user=zlXNBA0AAAAJ&hl=en) for publications in Astrophysics (Neutron Stars research)
 
 * [AI for disaster response: Predicting relief during cyclones](https://www.crisis-response.com/comment/blogpost.php?post=574) - *Published in the Crisis Response Blog*
 
@@ -80,6 +78,26 @@ Find below some of my side projects, selected for this repository:
 
 * [COVID-19 Policies: Where the Wealthy Become Poor & the Poor Become Poorer](https://medium.com/omdena/covid-19-policies-where-the-wealthy-become-poor-the-poor-become-poorer-757cad41458c?source=social.linkedin&_nonce=ZgY89gmU&_branch_match_id=494647957556010682) *Published in the Omdena Blog*
 
+
+## Recommendation of the Week Series ##
+if you are interested in AI for social good and career change, follow my [series of weekly recommendations on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6717864888108097536/).
+
+Topics covered so far: 
+
+🤓 [Intro resources to get into AI](https://www.linkedin.com/posts/rosanaogomes_introduction-to-machine-learning-youtube-activity-6701210695649775619-3R_R?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)     
+🗂️ [Datasets for Social Good](https://lnkd.in/dV42tB7)     
+📝 [Documentation and Open Source projects](https://www.linkedin.com/posts/rosanaogomes_the-beginners-guide-to-contributing-to-open-activity-6703712612179312640-ZVl5?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)     
+📊 [Storytelling and Visualizations](https://lnkd.in/deiVzQK)   
+🤖 [Computer Vision and Annotations](https://lnkd.in/dnqUJCG)     
+💻 [Technical interviews](https://lnkd.in/dSdVEVd)     
+🗣 [AI for Good former Conferences](https://www.linkedin.com/feed/update/urn:li:activity:6718968178657005568/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)           
+🌏 [AI for Renewable Energies](https://lnkd.in/diVSdV2)     
+⚖️ [AI for Ethics](https://www.linkedin.com/posts/rosanaogomes_home-ai-for-peace-activity-6696121980258668544-nSdE?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)     
+🗺 [Geospatial Analysys](https://www.linkedin.com/posts/rosanaogomes_gis-lounge-gis-lounge-activity-6726545296194600961-lG8X?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)     
+🔭 [Astronomy](https://lnkd.in/dQTce7f)      
+⚛ [AI and Physics](https://www.linkedin.com/posts/rosanaogomes_ai-for-physics-physics-for-ai-activity-6736669418027278337-KWrl?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)              
+🎓 [Research tools](https://www.linkedin.com/feed/update/urn:li:activity:6721504525410168832?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)              
+🤖 [Intro to Computer Vision](https://www.linkedin.com/posts/rosanaogomes_machine-learning-for-roof-detection-and-solar-activity-6731578752981061632-mvgd?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)
 
 ## Licenses ##
 

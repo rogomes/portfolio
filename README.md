@@ -1,8 +1,6 @@
 # Portfolio
 
-Hello there, I am [Rosana de Oliveira Gomes](https://www.linkedin.com/in/rosanaogomes/), a PhD in Astrophysics and Data scientist trying to change the world one day at a time. I have experience being a Lead Machine Learning Engineer and Project Manager in multiple projects related to social impact such as disaster management, renewable energies, sustainability and mobility.
-
-In my free time, I love spending time in more relaxing activities, such as [painting by number](https://www.liveabout.com/painting-by-numbers-2578775) or puzzles (part of my creative process).
+Hello there, I am [Rosana de Oliveira Gomes](https://www.linkedin.com/in/rosanaogomes/), a PhD in Astrophysics and Data scientist trying to change the world one day at a time. I have experience being a Lead Machine Learning Engineer and Project Manager in multiple projects related to social impact such as disaster management, renewable energies, sustainability and mobility. In my free time, I love spending time in more relaxing activities, such as [painting by number](https://www.liveabout.com/painting-by-numbers-2578775) or puzzles (part of my creative process).
                                  <img src="photo.jpeg" width="400">
 
 
@@ -98,6 +96,7 @@ Topics covered so far:
 ⚛ [AI and Physics](https://www.linkedin.com/posts/rosanaogomes_ai-for-physics-physics-for-ai-activity-6736669418027278337-KWrl?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)              
 🎓 [Research tools](https://www.linkedin.com/feed/update/urn:li:activity:6721504525410168832?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)              
 🤖 [Intro to Computer Vision](https://www.linkedin.com/posts/rosanaogomes_machine-learning-for-roof-detection-and-solar-activity-6731578752981061632-mvgd?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)
+
 
 ## Licenses ##
 

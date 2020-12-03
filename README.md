@@ -2,7 +2,7 @@
 
 Hello there, I am [Rosana de Oliveira Gomes](https://www.linkedin.com/in/rosanaogomes/), a PhD in Astrophysics and Data scientist trying to change the world one day at a time. I have experience being a Lead Machine Learning Engineer and Project Manager in multiple projects related to social impact such as disaster management, renewable energies, sustainability and mobility.
 
-In my free time, I love spending time in more relaxing activities, such as [painting by number](https://www.liveabout.com/painting-by-numbers-2578775) or puzzles (part of my creative process):
+In my free time, I love spending time in more relaxing activities, such as [painting by number](https://www.liveabout.com/painting-by-numbers-2578775) or puzzles (part of my creative process).
                                  <img src="photo.jpeg" width="400">
 
 
@@ -15,7 +15,7 @@ Find below some of my side projects, selected for this repository:
                                  <img src="tetris3.png" width="150">
 
 2. [**Monty Hall problem:**](https://github.com/rogomes/portfolio/blob/master/monty_hall/MontyHall.ipynb) study and simulation of the *Monty Hall problem* using Python.\
-   *keywords:* statistics, probability, Python, Monte Carlo simulation.   
+   *keywords:* Statistics, Probability, Monte Carlo simulation.   
                                   <img src="Monty_open_door.svg" width="230">
 
 3. [**World Bank indicators:**](https://github.com/rogomes/portfolio/blob/master/wbi_waste/WBI-TrashOut-Analysis.ipynb) analysis of the [*World Bank indicators*](https://data.worldbank.org/) relevant for illegal dumping.\
@@ -23,7 +23,7 @@ Find below some of my side projects, selected for this repository:
                                   <img src="wbi_waste/illegaldump.jpeg" width="200">
 
 
-4. [**NYC Community Service:**](https://github.com/rogomes/portfolio/blob/master/nyc_service/nyc_service.ipynb) analysis of the [*NYC Community Service*](https://data.world/city-of-ny/bquu-z2ht) desriptions and associated keywords to categories.\
+4. [**NYC Community Service:**](https://github.com/rogomes/portfolio/blob/master/nyc_service/nyc_service.ipynb) analysis of the [*NYC Community Service*](https://data.world/city-of-ny/bquu-z2ht) descriptions and associated category keywords.\
    *keywords:* Natural Language Processing, Ngrams, Wordclouds, Data Analysis.    
                                   <img src="community.jpg" width="200">
 
@@ -74,9 +74,9 @@ Find below some of my side projects, selected for this repository:
 * [Accelerating the Clean Energy Transition](https://omdena.com/blog/clean-energy/) - *Published in the Omdena Blog*
 
 * [The Trash We Make: Applying Machine Learning for Analyzing and Predicting Illegal Dumpsites](https://medium.com/omdena/the-trash-we-make-applying-machine-learning-for-analyzing-and-predicting-illegal-dumpsites-7aa0349989ad
-) _*Published in the Omdena Blog*
+) - *Published in the Omdena Blog*
 
-* [COVID-19 Policies: Where the Wealthy Become Poor & the Poor Become Poorer](https://medium.com/omdena/covid-19-policies-where-the-wealthy-become-poor-the-poor-become-poorer-757cad41458c?source=social.linkedin&_nonce=ZgY89gmU&_branch_match_id=494647957556010682) *Published in the Omdena Blog*
+* [COVID-19 Policies: Where the Wealthy Become Poor & the Poor Become Poorer](https://medium.com/omdena/covid-19-policies-where-the-wealthy-become-poor-the-poor-become-poorer-757cad41458c?source=social.linkedin&_nonce=ZgY89gmU&_branch_match_id=494647957556010682) - *Published in the Omdena Blog*
 
 
 ## Recommendation of the Week Series ##

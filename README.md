@@ -99,9 +99,10 @@ Topics covered so far:
 🎓 [Research tools](https://www.linkedin.com/feed/update/urn:li:activity:6721504525410168832?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)              
 🤖 [Intro to Computer Vision](https://www.linkedin.com/posts/rosanaogomes_machine-learning-for-roof-detection-and-solar-activity-6731578752981061632-mvgd?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)
 
-## Contact## 
-<img src="gmail.png" width="60"> rosana.gomes.phd@gmail.com   <img src="linkedin.jpeg" width="30"> [rosanaogomes](https://www.linkedin.com/in/rosanaogomes/)
-<img src="medium.png" width="70"> [@rosana.gomes.phd](https://medium.com/@rosana.gomes.phd)    <img src="github.png" width="60"> [rogomes](https://github.com/rogomes)
+## Contact ## 
+<img src="gmail.png" width="60"> rosana.gomes.phd@gmail.com    <img src="linkedin.jpeg" width="30"> [rosanaogomes](https://www.linkedin.com/in/rosanaogomes/)
+
+<img src="medium.png" width="70"> [@rosana.gomes.phd](https://medium.com/@rosana.gomes.phd)     <img src="github.png" width="60"> [rogomes](https://github.com/rogomes)
 
 ## Licenses ##
 

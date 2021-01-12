@@ -97,8 +97,7 @@ Topics covered so far:
 🔭 [Astronomy](https://lnkd.in/dQTce7f)      
 ⚛ [AI and Physics](https://www.linkedin.com/posts/rosanaogomes_ai-for-physics-physics-for-ai-activity-6736669418027278337-KWrl?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)              
 🎓 [Research tools](https://www.linkedin.com/feed/update/urn:li:activity:6721504525410168832?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)              
-🤖 [Intro to Computer Vision](https://www.linkedin.com/posts/rosanaogomes_machine-learning-for-roof-detection-and-solar-activity-6731578752981061632-mvgd?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)  <br/>
-🌐 [NeurIPS Conferences](https://www.linkedin.com/posts/rosanaogomes_pie-ai-nairobi-neurips-2020-meetup-activity-6741686401756078080-fHyS) <br/>  
+🤖 [Intro to Computer Vision](https://www.linkedin.com/posts/rosanaogomes_machine-learning-for-roof-detection-and-solar-activity-6731578752981061632-mvgd?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)  <br/>                                                                    🌐 [NeurIPS Conferences](https://www.linkedin.com/posts/rosanaogomes_pie-ai-nairobi-neurips-2020-meetup-activity-6741686401756078080-fHyS) <br/>  
 ⚕ [AI for Healthcare](https://www.linkedin.com/posts/rosanaogomes_sds-216-data-science-in-healthcare-podcast-activity-6751936297046171649-btHt) <br/>
 ⌛ [Time Management](https://www.linkedin.com/feed/update/urn:li:activity:6754293929933328384/)   <br/>
 

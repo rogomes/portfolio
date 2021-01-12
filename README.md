@@ -98,6 +98,10 @@ Topics covered so far:
 ⚛ [AI and Physics](https://www.linkedin.com/posts/rosanaogomes_ai-for-physics-physics-for-ai-activity-6736669418027278337-KWrl?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)              
 🎓 [Research tools](https://www.linkedin.com/feed/update/urn:li:activity:6721504525410168832?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)              
 🤖 [Intro to Computer Vision](https://www.linkedin.com/posts/rosanaogomes_machine-learning-for-roof-detection-and-solar-activity-6731578752981061632-mvgd?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)
+🌐 [NeurIPS Conferences](https://www.linkedin.com/posts/rosanaogomes_pie-ai-nairobi-neurips-2020-meetup-activity-6741686401756078080-fHyS)
+⚕ [AI for Healthcare](https://www.linkedin.com/posts/rosanaogomes_sds-216-data-science-in-healthcare-podcast-activity-6751936297046171649-btHt)
+⌛ [Time Management](https://www.linkedin.com/feed/update/urn:li:activity:6754293929933328384/)
+
 
 ## Contact ## 
 <img src="gmail.png" width="60"> rosana.gomes.phd@gmail.com    <a href="https://www.linkedin.com/in/rosanaogomes/"><img src="linkedin.jpeg" width="30"></a> [rosanaogomes](https://www.linkedin.com/in/rosanaogomes/)

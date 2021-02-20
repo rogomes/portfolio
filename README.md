@@ -43,6 +43,14 @@ Find below some of my side projects, selected for this repository:
 
 ## List of Public Talks (recordings in the links): ##
 
+* [Thought Leadership Webcast: AI for Good](https://www.youtube.com/watch?app=desktop&v=DxObOdnlSow)
+
+* Favored Online: How to Channel your Career to Data Science
+
+* AI+ Career Lab 2021: Transitioning into a Career in Data Science 
+
+* [Teachers for Future: AI, Climate Change and Education](https://teachers4f.de/SchulStrategie/)
+
 * [Data Native Conference 2020: Deepfakes Panel Discussion](https://www.youtube.com/watch?v=rdDNgwwcpL4&feature=youtu.be) (**time: 3:13:05-3:52:26)
 
 * [Omdena Demo Day: Building an AI Unabled NGO.](https://omdena.com/blog/ai-ngo/)
@@ -61,13 +69,20 @@ Find below some of my side projects, selected for this repository:
 
 * [Conference talk on Astrophysics: The Physics of Twin Stars](https://youtu.be/FrZHAkR036k)
 
+* IEEE Arab IoT and AI Challenge 2020 - AI for Social Impact: technology for the good of society
+
+
 ## Publications: ##
 
 * Check [my Google Scholar](https://scholar.google.de/citations?user=zlXNBA0AAAAJ&hl=en) for publications in Astrophysics (Neutron Stars research)
 
 * [AI for disaster response: Predicting relief during cyclones](https://www.crisis-response.com/comment/blogpost.php?post=574) - *Published in the Crisis Response Blog*
 
+* [AI meets Art: can creativity be replicated?](https://rosana-gomes-phd.medium.com/ai-meets-art-can-creativity-be-replicated-430ec1e5ef80) - *Published in the Omdena Blog*
+
 * [Switching into Data Science](https://www.datacamp.com/community/blog/switching-into-data-science) - *Published at DataCamp*
+
+* [Successfully Transitioning Into a Data Science Job in the Energy Sector](https://medium.com/omdena/successfully-transitioning-into-a-data-science-job-in-the-energy-sector-72b705faaacd) - *Published in the Omdena Blog*
 
 * [Wind Energy Trade with Deep Learning — Time Series Forecasting](https://towardsdatascience.com/wind-energy-trade-with-deep-learning-time-series-forecasting-580bd41f163) - *Published in Towards Data Science*
 
@@ -100,6 +115,8 @@ Topics covered so far:
 🤖 [Intro to Computer Vision](https://www.linkedin.com/posts/rosanaogomes_machine-learning-for-roof-detection-and-solar-activity-6731578752981061632-mvgd?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)  <br/>                                                                    🌐 [NeurIPS Conferences](https://www.linkedin.com/posts/rosanaogomes_pie-ai-nairobi-neurips-2020-meetup-activity-6741686401756078080-fHyS) <br/> 
 ⚕ [AI for Healthcare](https://www.linkedin.com/posts/rosanaogomes_sds-216-data-science-in-healthcare-podcast-activity-6751936297046171649-btHt) <br/>
 ⌛ [Time Management](https://www.linkedin.com/feed/update/urn:li:activity:6754293929933328384/)   <br/>
+🔨 [Hands-on Opportunities](https://www.linkedin.com/feed/update/urn:li:activity:6764587904841867264/) <br/>
+🎨 [ AI and Art](https://www.linkedin.com/feed/update/urn:li:activity:6757292819506855936/) <br/>
 
 
 ## Contact ## 

@@ -117,7 +117,8 @@ Topics covered so far:
 ⌛ [Time Management](https://www.linkedin.com/feed/update/urn:li:activity:6754293929933328384/)   <br/>
 🔨 [Hands-on Opportunities](https://www.linkedin.com/feed/update/urn:li:activity:6764587904841867264/) <br/>
 🎨 [ AI and Art](https://www.linkedin.com/feed/update/urn:li:activity:6757292819506855936/) <br/>
-
+♀️ [Women and AI](https://www.linkedin.com/posts/rosanaogomes_women-who-code-home-activity-6775499880631701504-rPr6) <br/>
+🌳 [AI and Sustainability](https://www.linkedin.com/posts/rosanaogomes_women-who-code-home-activity-6775499880631701504-rPr6) <br/>
 
 ## Contact ## 
 <img src="gmail.png" width="60"> rosana.gomes.phd@gmail.com    <a href="https://www.linkedin.com/in/rosanaogomes/"><img src="linkedin.jpeg" width="30"></a> [rosanaogomes](https://www.linkedin.com/in/rosanaogomes/)

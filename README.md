@@ -43,6 +43,8 @@ Find below some of my side projects, selected for this repository:
 
 ## List of Public Talks (recordings in the links): ##
 
+* [Pie & AI São Paulo: Inteligência Artificial para um mundo mais verde](https://youtu.be/qKYcA7jjS-w)
+
 * [Thought Leadership Webcast: AI for Good](https://www.youtube.com/watch?app=desktop&v=DxObOdnlSow)
 
 * Favored Online: How to Channel your Career to Data Science
@@ -79,6 +81,8 @@ Find below some of my side projects, selected for this repository:
 * [AI for disaster response: Predicting relief during cyclones](https://www.crisis-response.com/comment/blogpost.php?post=574) - *Published in the Crisis Response Blog*
 
 * [AI meets Art: can creativity be replicated?](https://rosana-gomes-phd.medium.com/ai-meets-art-can-creativity-be-replicated-430ec1e5ef80) - *Published in the Omdena Blog*
+
+* [Understanding Nature-Based Solutions through Natural Language Processing and Machine Learning](https://medium.com/omdena/understanding-nature-based-solutions-through-natural-language-processing-and-machine-learning-fdb79d416f02) - *Published in the Omdena Blog*
 
 * [Switching into Data Science](https://www.datacamp.com/community/blog/switching-into-data-science) - *Published at DataCamp*
 

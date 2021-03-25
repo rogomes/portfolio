@@ -43,7 +43,7 @@ Find below some of my side projects, selected for this repository:
 
 ## List of Public Talks (recordings in the links): ##
 
-* [AI for Smart Energy Management](https://youtu.be/_qcBu4UsqwM) (part of panel discussion / March 2021)
+* [AI for Smart Energy Management](https://mkai.org/march-technical-replays/) (March 2021)
 
 * [Pie & AI São Paulo: Inteligência Artificial para um mundo mais verde](https://youtu.be/qKYcA7jjS-w) (March 2021)
 

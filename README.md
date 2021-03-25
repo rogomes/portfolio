@@ -43,36 +43,45 @@ Find below some of my side projects, selected for this repository:
 
 ## List of Public Talks (recordings in the links): ##
 
-* [Pie & AI São Paulo: Inteligência Artificial para um mundo mais verde](https://youtu.be/qKYcA7jjS-w)
+* [AI for Smart Energy Management](https://youtu.be/_qcBu4UsqwM)(part of panel discussion / March 2021)
 
-* [Thought Leadership Webcast: AI for Good](https://www.youtube.com/watch?app=desktop&v=DxObOdnlSow)
+* [Pie & AI São Paulo: Inteligência Artificial para um mundo mais verde](https://youtu.be/qKYcA7jjS-w) (March 2021)
 
-* Favored Online: How to Channel your Career to Data Science
+* Women in Data Science Conference (WiDS 2021): A Recommender System for Nature-Based Solutions (March 2021)
 
-* AI+ Career Lab 2021: Transitioning into a Career in Data Science 
+* [Thought Leadership Webcast: AI for Good](https://www.youtube.com/watch?app=desktop&v=DxObOdnlSow) (February 2021)
 
-* [Teachers for Future: AI, Climate Change and Education](https://teachers4f.de/SchulStrategie/)
+* Data Science Waiting Room: Being a Woman in STEM (February 2021)
 
-* [Data Native Conference 2020: Deepfakes Panel Discussion](https://www.youtube.com/watch?v=rdDNgwwcpL4&feature=youtu.be) (**time: 3:13:05-3:52:26)
+* AI+ Career Lab 2021: Transitioning into a Career in Data Science (February 2021)
 
-* [Omdena Demo Day: Building an AI Unabled NGO.](https://omdena.com/blog/ai-ngo/)
+* Favored Online: How to Channel your Career to Data Science (January 2021)
 
-* [RE-WORK: AI for Crisis Prediction and Management.](https://www.youtube.com/watch?v=L0Ceu-WRbIU)
+* [Teachers for Future: AI, Climate Change and Education](https://teachers4f.de/SchulStrategie/) (January 2021)
 
-* [Omdena Demo Day: Artificial Intelligence for Disaster Response](https://www.youtube.com/watch?v=ZX2kH219Rx8)
+* Data Science Waiting Room: Getting into Data Science (December 2020)
 
-* [Omdena Webinar: Imposter Syndrome in Data Science](https://omdena.com/blog/impostor-syndrome-data-science/)
+* AI Meetup Berlin (December 2020)
 
-* [RE-WORK Women in AI Podcast - What is AI for Social Good?](https://m.youtube.com/watch?feature=youtu.be&v=s_uQvYzfMh8)
+* IEEE Arab IoT and AI Challenge 2020 - AI for Social Impact: technology for the good of society (November 2020)
 
-* [Data Natives Unlimited: NLP Panel Discussion](https://youtu.be/xyf-0I_NiRE)
+* [Data Natives Conference 2020: Deepfakes Panel Discussion](https://www.youtube.com/watch?v=rdDNgwwcpL4&feature=youtu.be) (**time: 3:13:05-3:52:26 / November 2020)
 
-* [Women Techmakers Casablanca: Inspiring Women Panel](https://m.facebook.com/story.php?story_fbid=3457191281024664&id=100002014779985)
+* [Women Techmakers Casablanca: Inspiring Women Panel](https://m.facebook.com/story.php?story_fbid=3457191281024664&id=100002014779985) (November 2020)
 
-* [Conference talk on Astrophysics: The Physics of Twin Stars](https://youtu.be/FrZHAkR036k)
+* [Data Natives Unlimited: NLP Panel Discussion](https://youtu.be/xyf-0I_NiRE) (October 2020)
 
-* IEEE Arab IoT and AI Challenge 2020 - AI for Social Impact: technology for the good of society
+* [RE-WORK Women in AI Podcast - What is AI for Social Good?](https://m.youtube.com/watch?feature=youtu.be&v=s_uQvYzfMh8) (September 2020)
 
+* [Omdena Demo Day: Building an AI Unabled NGO](https://omdena.com/blog/ai-ngo/) (September 2020)
+
+* [Conference talk on Astrophysics: The Physics of Twin Stars](https://youtu.be/FrZHAkR036k) (September 2020)
+
+* [RE-WORK: AI for Crisis Prediction and Management.](https://www.youtube.com/watch?v=L0Ceu-WRbIU) (June 2020)
+
+* [Omdena Demo Day: Artificial Intelligence for Disaster Response](https://www.youtube.com/watch?v=ZX2kH219Rx8) (May 2020)
+
+* [Omdena Webinar: Imposter Syndrome in Data Science](https://omdena.com/blog/impostor-syndrome-data-science/) (April 2020)
 
 ## Publications: ##
 

@@ -43,7 +43,11 @@ Find below some of my side projects, selected for this repository:
 
 ## List of Public Talks (recordings in the links): ##
 
-* [AI for Smart Energy Management](https://mkai.org/march-technical-replays/) (March 2021)
+* [Data Science Go Virtual Conference: The Beautiful world of AI for Good] (April 2021)
+
+* [MKAI Panel: AI for Smart Energy Management](https://mkai.org/march-technical-replays/) (March 2021)
+
+* [Development Student Clubs University of British Columbia: AI for Good](https://youtu.be/Z_I6FTkcdPM) (March 2021)
 
 * [Pie & AI São Paulo: Inteligência Artificial para um mundo mais verde](https://youtu.be/qKYcA7jjS-w) (March 2021)
 
@@ -61,7 +65,7 @@ Find below some of my side projects, selected for this repository:
 
 * Data Science Waiting Room: Getting into Data Science (December 2020)
 
-* AI Meetup Berlin (December 2020)
+* [AI Meetup Berlin: Fightung the Climate Crisis with AI](https://drive.google.com/file/d/14uCwZRZONup_wKCOuap6nPXvlhMz3CDZ/view) (December 2020)
 
 * IEEE Arab IoT and AI Challenge 2020 - AI for Social Impact: technology for the good of society (November 2020)
 

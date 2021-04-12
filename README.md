@@ -65,7 +65,7 @@ Find below some of my side projects, selected for this repository:
 
 * Data Science Waiting Room: Getting into Data Science (December 2020)
 
-* [AI Meetup Berlin: Fightung the Climate Crisis with AI](https://drive.google.com/file/d/14uCwZRZONup_wKCOuap6nPXvlhMz3CDZ/view) (December 2020)
+* [AI Meetup Berlin:Fighting the Climate Crisis with AI](https://drive.google.com/file/d/14uCwZRZONup_wKCOuap6nPXvlhMz3CDZ/view) (December 2020)
 
 * IEEE Arab IoT and AI Challenge 2020 - AI for Social Impact: technology for the good of society (November 2020)
 
@@ -136,6 +136,9 @@ Topics covered so far:
 🎨 [ AI and Art](https://www.linkedin.com/feed/update/urn:li:activity:6757292819506855936/) <br/>
 ♀️ [Women and AI](https://www.linkedin.com/posts/rosanaogomes_women-who-code-home-activity-6775499880631701504-rPr6) <br/>
 🌳 [AI and Sustainability](https://www.linkedin.com/posts/rosanaogomes_women-who-code-home-activity-6775499880631701504-rPr6) <br/>
+📰 [Natural Language Processing](https://www.linkedin.com/posts/rosanaogomes_nlp-ai-impact-activity-6780883194351783936-hWas) <br/>
+🔎 [Bias in AI](https://www.linkedin.com/posts/rosanaogomes_coded-bias-netflix-activity-6785081795525271552-dA0a) <br/>
+
 
 ## Contact ## 
 <img src="gmail.png" width="60"> rosana.gomes.phd@gmail.com    <a href="https://www.linkedin.com/in/rosanaogomes/"><img src="linkedin.jpeg" width="30"></a> [rosanaogomes](https://www.linkedin.com/in/rosanaogomes/)

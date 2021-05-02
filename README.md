@@ -43,7 +43,7 @@ Find below some of my side projects, selected for this repository:
 
 ## List of Public Talks (recordings in the links): ##
 
-* [Data Science Go Virtual Conference: The Beautiful world of AI for Good] (April 2021)
+* [Data Science Go Virtual Conference: The Beautiful world of AI for Good](https://www.youtube.com/watch?v=dSYxPKPjXtg) (April 2021)
 
 * [MKAI Panel: AI for Smart Energy Management](https://mkai.org/march-technical-replays/) (March 2021)
 

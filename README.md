@@ -47,7 +47,7 @@ Find below some of my side projects, selected for this repository:
 
 * UNAM( Universidad Nacional Autonoma de Mexico)- AI Adventures: Becoming a Data Scientist (May 2021)
 
-* [Women Who Code Data Science: Instagram Live Interview] (April 2021)
+* Women Who Code Data Science: Instagram Live Interview (April 2021)
 
 * [Data Science Go Virtual Conference: The Beautiful world of AI for Good](https://www.youtube.com/watch?v=dSYxPKPjXtg) (April 2021)
 
@@ -147,7 +147,7 @@ Topics covered so far:
 📰 [Natural Language Processing](https://www.linkedin.com/posts/rosanaogomes_nlp-ai-impact-activity-6780883194351783936-hWas) <br/>
 🔎 [Bias in AI](https://www.linkedin.com/posts/rosanaogomes_coded-bias-netflix-activity-6785081795525271552-dA0a) <br/>
 🌊 [AI for Disaster Management](https://www.linkedin.com/posts/rosanaogomes_ai-for-disaster-response-predicting-relief-activity-6789824887239262208-JnOC) <br/>
-💼 [AI in HR] (https://www.linkedin.com/feed/update/urn:li:activity:6799913466229485568/) <br/>
+💼 [AI in HR](https://www.linkedin.com/feed/update/urn:li:activity:6799913466229485568/) <br/>
 
 ## Contact ## 
 <img src="gmail.png" width="60"> rosana.gomes.phd@gmail.com    <a href="https://www.linkedin.com/in/rosanaogomes/"><img src="linkedin.jpeg" width="30"></a> [rosanaogomes](https://www.linkedin.com/in/rosanaogomes/)

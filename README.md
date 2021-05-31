@@ -57,7 +57,7 @@ Find below some of my side projects, selected for this repository:
 
 * [Pie & AI São Paulo: Inteligência Artificial para um mundo mais verde](https://youtu.be/qKYcA7jjS-w) (March 2021)
 
-* Women in Data Science Conference (WiDS 2021): A Recommender System for Nature-Based Solutions (March 2021)
+* [Women in Data Science Conference (WiDS 2021): A Recommender System for Nature-Based Solutions (registration requested](https://10times.com/e1s4-12k9-hxzd/live?id=514920) (March 2021)
 
 * [Thought Leadership Webcast: AI for Good](https://www.youtube.com/watch?app=desktop&v=DxObOdnlSow) (February 2021)
 

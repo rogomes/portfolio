@@ -1,6 +1,6 @@
 # Portfolio
 
-Hello there, I am [Rosana de Oliveira Gomes](https://www.linkedin.com/in/rosanaogomes/), a PhD in Astrophysics and Data scientist trying to change the world one day at a time. I have experience being a Lead Machine Learning Engineer and Project Manager in multiple projects related to social impact such as disaster management, renewable energies, sustainability and mobility.
+Hello there, I am [Rosana de Oliveira Gomes](https://www.linkedin.com/in/rosanaogomes/), a PhD in Astrophysics and Data scientist trying to change the world one day at a time. I have experience being a Lead Machine Learning Engineer and Project Manager in multiple projects related to social impact such as disaster management, renewable energies, sustainability and mobility. 
 
 In my free time, I love spending time in more relaxing activities, such as [painting by number](https://www.liveabout.com/painting-by-numbers-2578775) or puzzles (part of my creative process).
                                  <img src="photo.jpeg" width="400">
@@ -43,31 +43,71 @@ Find below some of my side projects, selected for this repository:
 
 ## List of Public Talks (recordings in the links): ##
 
-* [Data Native Conference 2020: Deepfakes Panel Discussion](https://www.youtube.com/watch?v=rdDNgwwcpL4&feature=youtu.be) (**time: 3:13:05-3:52:26)
+* [Omdena Career: How to Stand out in the Data Science Job Market](https://www.youtube.com/watch?v=mk81EubDhIs) (May 2021)
 
-* [Omdena Demo Day: Building an AI Unabled NGO.](https://omdena.com/blog/ai-ngo/)
+* UNAM( Universidad Nacional Autonoma de Mexico)- AI Adventures: Becoming a Data Scientist (May 2021)
 
-* [RE-WORK: AI for Crisis Prediction and Management.](https://www.youtube.com/watch?v=L0Ceu-WRbIU)
+* Women Who Code Data Science: Instagram Live Interview (April 2021)
 
-* [Omdena Demo Day: Artificial Intelligence for Disaster Response](https://www.youtube.com/watch?v=ZX2kH219Rx8)
+* [Data Science Go Virtual Conference: The Beautiful world of AI for Good](https://www.youtube.com/watch?v=dSYxPKPjXtg) (April 2021)
 
-* [Omdena Webinar: Imposter Syndrome in Data Science](https://omdena.com/blog/impostor-syndrome-data-science/)
+* [MKAI Panel: AI for Smart Energy Management](https://mkai.org/march-technical-replays/) (March 2021)
 
-* [RE-WORK Women in AI Podcast - What is AI for Social Good?](https://m.youtube.com/watch?feature=youtu.be&v=s_uQvYzfMh8)
+* [Development Student Clubs University of British Columbia: AI for Good](https://youtu.be/Z_I6FTkcdPM) (March 2021)
 
-* [Data Natives Unlimited: NLP Panel Discussion](https://youtu.be/xyf-0I_NiRE)
+* [Pie & AI São Paulo: Inteligência Artificial para um mundo mais verde](https://youtu.be/qKYcA7jjS-w) (March 2021)
 
-* [Women Techmakers Casablanca: Inspiring Women Panel](https://m.facebook.com/story.php?story_fbid=3457191281024664&id=100002014779985)
+* [Women in Data Science Conference (WiDS 2021): A Recommender System for Nature-Based Solutions (registration requested](https://10times.com/e1s4-12k9-hxzd/live?id=514920) (March 2021)
 
-* [Conference talk on Astrophysics: The Physics of Twin Stars](https://youtu.be/FrZHAkR036k)
+* [Thought Leadership Webcast: AI for Good](https://www.youtube.com/watch?app=desktop&v=DxObOdnlSow) (February 2021)
+
+* Data Science Waiting Room: Being a Woman in STEM (February 2021)
+
+* [AI+ Career Lab 2021: Transitioning into a Career in Data Science (Records on Demand)](https://app.aiplus.training/courses/ai-career-lab-2021-on-demand-recordings) (February 2021)
+
+* Favored Online: How to Channel your Career to Data Science (January 2021)
+
+* [Teachers for Future: AI, Climate Change and Education](https://teachers4f.de/SchulStrategie/) (January 2021)
+
+* Data Science Waiting Room: Getting into Data Science (December 2020)
+
+* [AI Meetup Berlin:Fighting the Climate Crisis with AI](https://drive.google.com/file/d/14uCwZRZONup_wKCOuap6nPXvlhMz3CDZ/view) (December 2020)
+
+* IEEE Arab IoT and AI Challenge 2020 - AI for Social Impact: technology for the good of society (November 2020)
+
+* [Data Natives Conference 2020: Deepfakes Panel Discussion](https://www.youtube.com/watch?v=rdDNgwwcpL4&feature=youtu.be) (**time: 3:13:05-3:52:26 / November 2020)
+
+* [Women Techmakers Casablanca: Inspiring Women Panel](https://m.facebook.com/story.php?story_fbid=3457191281024664&id=100002014779985) (November 2020)
+
+* [Data Natives Unlimited: NLP Panel Discussion](https://youtu.be/xyf-0I_NiRE) (October 2020)
+
+* [RE-WORK Women in AI Podcast - What is AI for Social Good?](https://m.youtube.com/watch?feature=youtu.be&v=s_uQvYzfMh8) (September 2020)
+
+* [Omdena Demo Day: Building an AI Unabled NGO](https://omdena.com/blog/ai-ngo/) (September 2020)
+
+* [Conference talk on Astrophysics: The Physics of Twin Stars](https://youtu.be/FrZHAkR036k) (September 2020)
+
+* [RE-WORK: AI for Crisis Prediction and Management.](https://www.youtube.com/watch?v=L0Ceu-WRbIU) (June 2020)
+
+* [Omdena Demo Day: Artificial Intelligence for Disaster Response](https://www.youtube.com/watch?v=ZX2kH219Rx8) (May 2020)
+
+* [Omdena Webinar: Imposter Syndrome in Data Science](https://omdena.com/blog/impostor-syndrome-data-science/) (April 2020)
 
 ## Publications: ##
 
 * Check [my Google Scholar](https://scholar.google.de/citations?user=zlXNBA0AAAAJ&hl=en) for publications in Astrophysics (Neutron Stars research)
 
+* [The effect of inhomogeneous carbon prices on the cost-optimal design of a simplified European power system](https://ieeexplore.ieee.org/abstract/document/9105371) *Published at IEEE*
+
 * [AI for disaster response: Predicting relief during cyclones](https://www.crisis-response.com/comment/blogpost.php?post=574) - *Published in the Crisis Response Blog*
 
+* [AI meets Art: can creativity be replicated?](https://rosana-gomes-phd.medium.com/ai-meets-art-can-creativity-be-replicated-430ec1e5ef80) - *Published in the Omdena Blog*
+
+* [Understanding Nature-Based Solutions through Natural Language Processing and Machine Learning](https://medium.com/omdena/understanding-nature-based-solutions-through-natural-language-processing-and-machine-learning-fdb79d416f02) - *Published in the Omdena Blog*
+
 * [Switching into Data Science](https://www.datacamp.com/community/blog/switching-into-data-science) - *Published at DataCamp*
+
+* [Successfully Transitioning Into a Data Science Job in the Energy Sector](https://medium.com/omdena/successfully-transitioning-into-a-data-science-job-in-the-energy-sector-72b705faaacd) - *Published in the Omdena Blog*
 
 * [Wind Energy Trade with Deep Learning — Time Series Forecasting](https://towardsdatascience.com/wind-energy-trade-with-deep-learning-time-series-forecasting-580bd41f163) - *Published in Towards Data Science*
 
@@ -97,7 +137,22 @@ Topics covered so far:
 🔭 [Astronomy](https://lnkd.in/dQTce7f)      
 ⚛ [AI and Physics](https://www.linkedin.com/posts/rosanaogomes_ai-for-physics-physics-for-ai-activity-6736669418027278337-KWrl?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)              
 🎓 [Research tools](https://www.linkedin.com/feed/update/urn:li:activity:6721504525410168832?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)              
-🤖 [Intro to Computer Vision](https://www.linkedin.com/posts/rosanaogomes_machine-learning-for-roof-detection-and-solar-activity-6731578752981061632-mvgd?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)
+🤖 [Intro to Computer Vision](https://www.linkedin.com/posts/rosanaogomes_machine-learning-for-roof-detection-and-solar-activity-6731578752981061632-mvgd?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3B43qmOhdKQ5mj4jGB0eRC4Q%3D%3D)  <br/>                                                                    🌐 [NeurIPS Conferences](https://www.linkedin.com/posts/rosanaogomes_pie-ai-nairobi-neurips-2020-meetup-activity-6741686401756078080-fHyS) <br/> 
+⚕ [AI for Healthcare](https://www.linkedin.com/posts/rosanaogomes_sds-216-data-science-in-healthcare-podcast-activity-6751936297046171649-btHt) <br/>
+⌛ [Time Management](https://www.linkedin.com/feed/update/urn:li:activity:6754293929933328384/)   <br/>
+🔨 [Hands-on Opportunities](https://www.linkedin.com/feed/update/urn:li:activity:6764587904841867264/) <br/>
+🎨 [ AI and Art](https://www.linkedin.com/feed/update/urn:li:activity:6757292819506855936/) <br/>
+♀️ [Women and AI](https://www.linkedin.com/posts/rosanaogomes_women-who-code-home-activity-6775499880631701504-rPr6) <br/>
+🌳 [AI and Sustainability](https://www.linkedin.com/posts/rosanaogomes_women-who-code-home-activity-6775499880631701504-rPr6) <br/>
+📰 [Natural Language Processing](https://www.linkedin.com/posts/rosanaogomes_nlp-ai-impact-activity-6780883194351783936-hWas) <br/>
+🔎 [Bias in AI](https://www.linkedin.com/posts/rosanaogomes_coded-bias-netflix-activity-6785081795525271552-dA0a) <br/>
+🌊 [AI for Disaster Management](https://www.linkedin.com/posts/rosanaogomes_ai-for-disaster-response-predicting-relief-activity-6789824887239262208-JnOC) <br/>
+💼 [AI in HR](https://www.linkedin.com/feed/update/urn:li:activity:6799913466229485568/) <br/>
+
+## Contact ## 
+<img src="gmail.png" width="60"> rosana.gomes.phd@gmail.com    <a href="https://www.linkedin.com/in/rosanaogomes/"><img src="linkedin.jpeg" width="30"></a> [rosanaogomes](https://www.linkedin.com/in/rosanaogomes/)
+
+<a href="https://medium.com/@rosana.gomes.phd"><img src="medium.png" width="70"></a> [@rosana.gomes.phd](https://medium.com/@rosana.gomes.phd)     <a href="https://github.com/rogomes"><img src="github.png" width="60"></a> [rogomes](https://github.com/rogomes)
 
 ## Licenses ##
 

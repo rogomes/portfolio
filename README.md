@@ -36,12 +36,24 @@ Find below some of my side projects, selected for this repository:
    *keywords:* Python, Neural Networks, Image Recognition, TensorFlow, Keras.\
    <img src="34003.jpg" width="200">
 
-   
+   ()
 7. **Energy Demand Forecasting:** predicting energy demand for renewable energies using Deep Learning. Project developed during the [*Deep Learning Datathon 2020*](https://ai4impact.org/dld.html) hosted by [*AI4Impact*](https://ai4impact.org/index.html). \
    *keywords:* Time Series, Neural Networks, Deep Learning, TensorFlow, Keras.   
    comment -->
 
 ## List of Public Talks (recordings in the links): ##
+
+* Women in MKAI Panel Discussion **(Coming in August 2021)**
+
+* AI4: A Recommender System for Volunteering Work **(Coming in August 2021)**
+
+* Omdena Women: Meet the AI Wonder Girls **(Coming in July 2021)**
+
+* ICML 2021 Workshop: Tackling Climate Change with Machine Learning Panel Discussion **(Coming in July 2021)**
+
+* Omdena Nigeria Chapter: AI & Renewable Energies **(Coming in July 2021)**
+
+* [WomenTech Global Conference: AI & Society: How can technology make the world a better place?](https://www.womentech.net/speaker/Rosana%20/de%20Oliveira%20Gomes/52754#.YLq-lvYO07E.linkedin) (June 2021)
 
 * [Omdena Career: How to Stand out in the Data Science Job Market](https://www.youtube.com/watch?v=mk81EubDhIs) (May 2021)
 
@@ -148,6 +160,7 @@ Topics covered so far:
 🔎 [Bias in AI](https://www.linkedin.com/posts/rosanaogomes_coded-bias-netflix-activity-6785081795525271552-dA0a) <br/>
 🌊 [AI for Disaster Management](https://www.linkedin.com/posts/rosanaogomes_ai-for-disaster-response-predicting-relief-activity-6789824887239262208-JnOC) <br/>
 💼 [AI in HR](https://www.linkedin.com/feed/update/urn:li:activity:6799913466229485568/) <br/>
+⚙ [MLOps](https://www.linkedin.com/posts/rosanaogomes_mlops-ai-summit-activity-6805591215120121856-_TfS) <br/>
 
 ## Contact ## 
 <img src="gmail.png" width="60"> rosana.gomes.phd@gmail.com    <a href="https://www.linkedin.com/in/rosanaogomes/"><img src="linkedin.jpeg" width="30"></a> [rosanaogomes](https://www.linkedin.com/in/rosanaogomes/)

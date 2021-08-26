@@ -43,67 +43,84 @@ Find below some of my side projects, selected for this repository:
 
 ## List of Public Talks (recordings in the links): ##
 
-* Women in MKAI Panel Discussion **(Coming in August 2021)**
 
-* AI4: A Recommender System for Volunteering Work **(Coming in August 2021)**
+1. Congresso Brasileiro de Fisica (Talk): Predicting Wind and Solar Energy Supply with Deep Learning **(Coming up in October)**
 
-* Omdena Women: Meet the AI Wonder Girls **(Coming in July 2021)**
+1. Congresso Brasileiro de Fisica (Talk): Revisiting Diabetes Mellitus Diagnosis with Artificial Intelligence **(Coming up in October)**
 
-* ICML 2021 Workshop: Tackling Climate Change with Machine Learning Panel Discussion **(Coming in July 2021)**
+1. Congresso Brasileiro de Fisica (Curso): Introdução ao Machine Learning para Físicos **(Coming up in October)**
 
-* Omdena Nigeria Chapter: AI & Renewable Energies **(Coming in July 2021)**
+1. PyData Hamburg: Meet the Athena Art Assistant **(Coming up in September)**
 
-* [WomenTech Global Conference: AI & Society: How can technology make the world a better place?](https://www.womentech.net/speaker/Rosana%20/de%20Oliveira%20Gomes/52754#.YLq-lvYO07E.linkedin) (June 2021)
+1. SRM Institute of Science and Technology: Introduction to Neural Networks Lecture **(Coming up in September)**
 
-* [Omdena Career: How to Stand out in the Data Science Job Market](https://www.youtube.com/watch?v=mk81EubDhIs) (May 2021)
+1. Kent State University (KSU) Colloqium: AI for Social Impact **(Coming up in September)**
 
-* UNAM( Universidad Nacional Autonoma de Mexico)- AI Adventures: Becoming a Data Scientist (May 2021)
+1. Omdena Saudi Arabia Chapter: Introducing Omdena **(Coming up in September)**
 
-* Women Who Code Data Science: Instagram Live Interview (April 2021)
+1. UFRGS Colloquium: Time Series - from Astronomy to Social Impact **(Coming up in September)**
 
-* [Data Science Go Virtual Conference: The Beautiful world of AI for Good](https://www.youtube.com/watch?v=dSYxPKPjXtg) (April 2021)
+1. Women in MKAI Panel Discussion (August 2021)
 
-* [MKAI Panel: AI for Smart Energy Management](https://mkai.org/march-technical-replays/) (March 2021)
+1. [AI4: A Recommender System for Volunteering Work](https://ai4.io/2021/videos/) **(Check NLP Track/ August 2021)**
 
-* [Development Student Clubs University of British Columbia: AI for Good](https://youtu.be/Z_I6FTkcdPM) (March 2021)
+1. [Omdena Women: Meet the AI Wonder Girls](https://www.youtube.com/watch?v=ZX_aDLQLSyg) (July 2021)
 
-* [Pie & AI São Paulo: Inteligência Artificial para um mundo mais verde](https://youtu.be/qKYcA7jjS-w) (March 2021)
+1. [ICML 2021 Workshop: Tackling Climate Change with Machine Learning Panel Discussion](https://slideslive.com/38964340/tackling-climate-change-with-machine-learning) **(Panel Discussion at 2:05:25 / July 2021)**
 
-* [Women in Data Science Conference (WiDS 2021): A Recommender System for Nature-Based Solutions (registration requested](https://10times.com/e1s4-12k9-hxzd/live?id=514920) (March 2021)
+1. Omdena Nigeria Chapter: AI & Renewable Energies (July 2021)
 
-* [Thought Leadership Webcast: AI for Good](https://www.youtube.com/watch?app=desktop&v=DxObOdnlSow) (February 2021)
+1. [WomenTech Global Conference: AI & Society: How can technology make the world a better place?](https://www.womentech.net/speaker/Rosana%20/de%20Oliveira%20Gomes/52754#.YLq-lvYO07E.linkedin) (June 2021)
 
-* Data Science Waiting Room: Being a Woman in STEM (February 2021)
+1. [Omdena Career: How to Stand out in the Data Science Job Market](https://www.youtube.com/watch?v=mk81EubDhIs) (May 2021)
 
-* [AI+ Career Lab 2021: Transitioning into a Career in Data Science (Records on Demand)](https://app.aiplus.training/courses/ai-career-lab-2021-on-demand-recordings) (February 2021)
+1. UNAM( Universidad Nacional Autonoma de Mexico)- AI Adventures: Becoming a Data Scientist (May 2021)
 
-* Favored Online: How to Channel your Career to Data Science (January 2021)
+1. Women Who Code Data Science: Instagram Live Interview (April 2021)
 
-* [Teachers for Future: AI, Climate Change and Education](https://teachers4f.de/SchulStrategie/) (January 2021)
+1. [Data Science Go Virtual Conference: The Beautiful world of AI for Good](https://www.youtube.com/watch?v=dSYxPKPjXtg) (April 2021)
 
-* Data Science Waiting Room: Getting into Data Science (December 2020)
+1. [MKAI Panel: AI for Smart Energy Management](https://mkai.org/march-technical-replays/) (March 2021)
 
-* [AI Meetup Berlin:Fighting the Climate Crisis with AI](https://drive.google.com/file/d/14uCwZRZONup_wKCOuap6nPXvlhMz3CDZ/view) (December 2020)
+1. [Development Student Clubs University of British Columbia: AI for Good](https://youtu.be/Z_I6FTkcdPM) (March 2021)
 
-* IEEE Arab IoT and AI Challenge 2020 - AI for Social Impact: technology for the good of society (November 2020)
+1. [Pie & AI São Paulo: Inteligência Artificial para um mundo mais verde](https://youtu.be/qKYcA7jjS-w) (March 2021)
 
-* [Data Natives Conference 2020: Deepfakes Panel Discussion](https://www.youtube.com/watch?v=rdDNgwwcpL4&feature=youtu.be) (**time: 3:13:05-3:52:26 / November 2020)
+1. [Women in Data Science Conference (WiDS 2021): A Recommender System for Nature-Based Solutions (registration requested](https://10times.com/e1s4-12k9-hxzd/live?id=514920) (March 2021)
 
-* [Women Techmakers Casablanca: Inspiring Women Panel](https://m.facebook.com/story.php?story_fbid=3457191281024664&id=100002014779985) (November 2020)
+1. [Thought Leadership Webcast: AI for Good](https://www.youtube.com/watch?app=desktop&v=DxObOdnlSow) (February 2021)
 
-* [Data Natives Unlimited: NLP Panel Discussion](https://youtu.be/xyf-0I_NiRE) (October 2020)
+1. Data Science Waiting Room: Being a Woman in STEM (February 2021)
 
-* [RE-WORK Women in AI Podcast - What is AI for Social Good?](https://m.youtube.com/watch?feature=youtu.be&v=s_uQvYzfMh8) (September 2020)
+1. [AI+ Career Lab 2021: Transitioning into a Career in Data Science (Records on Demand)](https://app.aiplus.training/courses/ai-career-lab-2021-on-demand-recordings) (February 2021)
 
-* [Omdena Demo Day: Building an AI Unabled NGO](https://omdena.com/blog/ai-ngo/) (September 2020)
+1. Favored Online: How to Channel your Career to Data Science (January 2021)
 
-* [Conference talk on Astrophysics: The Physics of Twin Stars](https://youtu.be/FrZHAkR036k) (September 2020)
+1. [Teachers for Future: AI, Climate Change and Education](https://teachers4f.de/SchulStrategie/) (January 2021)
 
-* [RE-WORK: AI for Crisis Prediction and Management.](https://www.youtube.com/watch?v=L0Ceu-WRbIU) (June 2020)
+1. Data Science Waiting Room: Getting into Data Science (December 2020)
 
-* [Omdena Demo Day: Artificial Intelligence for Disaster Response](https://www.youtube.com/watch?v=ZX2kH219Rx8) (May 2020)
+1. [AI Meetup Berlin:Fighting the Climate Crisis with AI](https://drive.google.com/file/d/14uCwZRZONup_wKCOuap6nPXvlhMz3CDZ/view) (December 2020)
 
-* [Omdena Webinar: Imposter Syndrome in Data Science](https://omdena.com/blog/impostor-syndrome-data-science/) (April 2020)
+1. IEEE Arab IoT and AI Challenge 2020 - AI for Social Impact: technology for the good of society (November 2020)
+
+1. [Data Natives Conference 2020: Deepfakes Panel Discussion](https://www.youtube.com/watch?v=rdDNgwwcpL4&feature=youtu.be) (**time: 3:13:05-3:52:26 / November 2020)
+
+1. [Women Techmakers Casablanca: Inspiring Women Panel](https://m.facebook.com/story.php?story_fbid=3457191281024664&id=100002014779985) (November 2020)
+
+1. [Data Natives Unlimited: NLP Panel Discussion](https://youtu.be/xyf-0I_NiRE) (October 2020)
+
+1. [RE-WORK Women in AI Podcast - What is AI for Social Good?](https://m.youtube.com/watch?feature=youtu.be&v=s_uQvYzfMh8) (September 2020)
+
+1. [Omdena Demo Day: Building an AI Unabled NGO](https://omdena.com/blog/ai-ngo/) (September 2020)
+
+1. [Conference talk on Astrophysics: The Physics of Twin Stars](https://youtu.be/FrZHAkR036k) (September 2020)
+
+1. [RE-WORK: AI for Crisis Prediction and Management.](https://www.youtube.com/watch?v=L0Ceu-WRbIU) (June 2020)
+
+1. [Omdena Demo Day: Artificial Intelligence for Disaster Response](https://www.youtube.com/watch?v=ZX2kH219Rx8) (May 2020)
+
+1. [Omdena Webinar: Imposter Syndrome in Data Science](https://omdena.com/blog/impostor-syndrome-data-science/) (April 2020)
 
 ## Publications: ##
 

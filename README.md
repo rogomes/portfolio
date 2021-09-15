@@ -43,22 +43,21 @@ Find below some of my side projects, selected for this repository:
 
 ## List of Public Talks (recordings in the links): ##
 
+1. PyData Hamburg: Meet the Athena Art Assistant **(Coming up in November)**
 
-1. Congresso Brasileiro de Fisica (Talk): Predicting Wind and Solar Energy Supply with Deep Learning **(Coming up in October)**
+1. FURG Collowuium: Transicao de Carreira - da física para a indústria **(Coming up in November)**
+
+1. SRM Institute of Science and Technology: Introduction to Neural Networks Lecture **(Coming up in October)**
 
 1. Congresso Brasileiro de Fisica (Talk): Revisiting Diabetes Mellitus Diagnosis with Artificial Intelligence **(Coming up in October)**
 
 1. Congresso Brasileiro de Fisica (Curso): Introdução ao Machine Learning para Físicos **(Coming up in October)**
 
-1. PyData Hamburg: Meet the Athena Art Assistant **(Coming up in September)**
+1. Kent State University (KSU) Colloqium: AI for Social Impact (September 2021)
 
-1. SRM Institute of Science and Technology: Introduction to Neural Networks Lecture **(Coming up in September)**
+1. Omdena Saudi Arabia Chapter: Introducing Omdena (September 2021)
 
-1. Kent State University (KSU) Colloqium: AI for Social Impact **(Coming up in September)**
-
-1. Omdena Saudi Arabia Chapter: Introducing Omdena **(Coming up in September)**
-
-1. UFRGS Colloquium: Time Series - from Astronomy to Social Impact **(Coming up in September)**
+1. [UFRGS Colloquium: Time Series - from Astronomy to Social Impact](https://www.youtube.com/watch?v=HUXZTzBeSwE&t=450s) (September 2021)
 
 1. Women in MKAI Panel Discussion (August 2021)
 

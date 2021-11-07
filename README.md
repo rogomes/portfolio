@@ -41,19 +41,21 @@ Find below some of my side projects, selected for this repository:
    *keywords:* Time Series, Neural Networks, Deep Learning, TensorFlow, Keras.   
    comment -->
 
-## List of Public Talks (recordings in the links): ##
+## List of Talks (recordings in the links): ##
+
+1. FURG Colloquium: Transição de Carreira - da física para a indústria **(Coming up in April 2022)**
 
 1. PyData Hamburg: Meet the Athena Art Assistant **(Coming up in November)**
 
-1. FURG Collowuium: Transicao de Carreira - da física para a indústria **(Coming up in November)**
+1. [Meninas na Ciência: Partiu UFRGS Especial Carreiras](https://youtu.be/mHwUahwtjds) (October 2021)
 
-1. SRM Institute of Science and Technology: Introduction to Neural Networks Lecture **(Coming up in October)**
+1. PyData Global: Becoming a Tech Conference Speaker (October 2021)
 
-1. Congresso Brasileiro de Fisica (Talk): Revisiting Diabetes Mellitus Diagnosis with Artificial Intelligence **(Coming up in October)**
+1. Moinworld: Meet the AI Wonder Girls (October 2021)
 
-1. Congresso Brasileiro de Fisica (Curso): Introdução ao Machine Learning para Físicos **(Coming up in October)**
+1. Super Data Science Career Chats: Colearn students meeting (September 2021)
 
-1. Kent State University (KSU) Colloqium: AI for Social Impact (September 2021)
+1. Kent State University (KSU) Colloquium: AI for Social Impact (September 2021)
 
 1. Omdena Saudi Arabia Chapter: Introducing Omdena (September 2021)
 

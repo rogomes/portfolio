@@ -47,9 +47,11 @@ Find below some of my side projects, selected for this repository:
 
 1. Institute of Science & Technology UK (IST): An AI Assistant for Climate Change Mitigation **(Coming up in December 2021)**
 
-1. Women Who Code: Ace Hackathon with the AI Wonder girls **(Coming up in November 2021)**
+1. Omdena Series: The Great Job Resignation **(Coming up in December 2021)**
 
-1. PyData Hamburg: Athena Art Assistant - Women & AI Creations (November 2021)
+1. Women Who Code: Ace Hackathon with the AI Wonder girls (November 2021)
+
+1. [PyData Hamburg: Athena Art Assistant - Women & AI Creations](https://www.youtube.com/watch?v=bk8NhYsb4l4) (November 2021)
 
 1. [Meninas na Ciência: Partiu UFRGS Especial Carreiras](https://youtu.be/mHwUahwtjds) (October 2021)
 

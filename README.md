@@ -47,7 +47,7 @@ Find below some of my side projects, selected for this repository:
 
 1. Institute of Science & Technology UK (IST): An AI Assistant for Climate Change Mitigation **(Coming up in December 2021)**
 
-1. Omdena Series: The Great Job Resignation **(Coming up in December 2021)**
+1. [Omdena Series: The Great Job Resignation](https://youtu.be/34TOteR-uBI) (December 2021)
 
 1. Women Who Code: Ace Hackathon with the AI Wonder girls (November 2021)
 
@@ -87,7 +87,7 @@ Find below some of my side projects, selected for this repository:
 
 1. [Data Science Go Virtual Conference: The Beautiful world of AI for Good](https://www.youtube.com/watch?v=dSYxPKPjXtg) (April 2021)
 
-1. [MKAI Panel: AI for Smart Energy Management](https://mkai.org/march-technical-replays/) (March 2021)
+1. [MKAI Panel: AI for Smart Energy Management](https://youtu.be/s5f_4AjprNI) (March 2021)
 
 1. [Development Student Clubs University of British Columbia: AI for Good](https://youtu.be/Z_I6FTkcdPM) (March 2021)
 
@@ -101,7 +101,7 @@ Find below some of my side projects, selected for this repository:
 
 1. [AI+ Career Lab 2021: Transitioning into a Career in Data Science (Records on Demand)](https://app.aiplus.training/courses/ai-career-lab-2021-on-demand-recordings) (February 2021)
 
-1. Favored Online: How to Channel your Career to Data Science (January 2021)
+1. [Favored Online: How to Channel your Career to Data Science](https://youtu.be/_oYkgu4oZm4) (January 2021)
 
 1. [Teachers for Future: AI, Climate Change and Education](https://teachers4f.de/SchulStrategie/) (January 2021)
 

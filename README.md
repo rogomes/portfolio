@@ -69,7 +69,7 @@ Find below some of my side projects, selected for this repository:
 
 1. Women in MKAI Panel Discussion (August 2021)
 
-1. [AI4: A Recommender System for Volunteering Work](https://ai4.io/2021/videos/) **(Check NLP Track/ August 2021)**
+1. [AI4: A Recommender System for Volunteering Work](https://www.youtube.com/watch?v=igvdJJ-l2pA) (August 2021)
 
 1. [Omdena Women: Meet the AI Wonder Girls](https://www.youtube.com/watch?v=ZX_aDLQLSyg) (July 2021)
 

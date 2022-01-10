@@ -47,6 +47,8 @@ Find below some of my side projects, selected for this repository:
 
 1. Institute of Science & Technology UK (IST): An AI Assistant for Climate Change Mitigation **(Coming up in December 2021)**
 
+1. [WIDS 2022: Intro to Energy Consumption and the Climate Crisis](https://www.youtube.com/watch?v=nEMv9fymQfo) (January 2022)
+
 1. [Omdena Series: The Great Job Resignation](https://youtu.be/34TOteR-uBI) (December 2021)
 
 1. Women Who Code: Ace Hackathon with the AI Wonder girls (November 2021)

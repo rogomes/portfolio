@@ -43,11 +43,19 @@ Find below some of my side projects, selected for this repository:
 
 ## List of Talks (recordings in the links): ##
 
-1. FURG Colloquium: Transição de Carreira - da física para a indústria **(Coming up in April 2022)**
+1. Panel Discussion: AI & Art **(Coming up in May 2022 - in person)**
 
-1. Institute of Science & Technology UK (IST): An AI Assistant for Climate Change Mitigation **(Coming up in December 2021)**
+1. GoodTechFest 2022: Meet the AI Wonder Girls **(Coming up in May 2022)**
 
-1. [WIDS 2022: Intro to Energy Consumption and the Climate Crisis](https://www.youtube.com/watch?v=nEMv9fymQfo) (January 2022)
+1. AI4Diversity Talk: GAIA - Green Awareness Intelligent Assistant **(Coming up in May 2022)**
+
+1. [Queen of Tech Interview (Defined.ai)](https://www.youtube.com/watch?v=_wDGNeC5iWQ) (March 2022) 
+
+1. [WiDS PSU 2022 Workshop: AI & ML Applications](https://www.youtube.com/watch?v=bK76xop2FAE) (January 2022)
+
+1. Institute of Science & Technology UK (IST): An AI Assistant for Climate Change Mitigation (January 2022)
+
+1. [WIDS PSU 2022 Workshop: Intro to Energy Consumption and the Climate Crisis](https://www.youtube.com/watch?v=nEMv9fymQfo) (January 2022)
 
 1. [Omdena Series: The Great Job Resignation](https://youtu.be/34TOteR-uBI) (December 2021)
 

@@ -47,9 +47,15 @@ Find below some of my side projects, selected for this repository:
 
 1. GoodTechFest 2022: Meet the AI Wonder Girls **(Coming up in May 2022)**
 
-1. AI4Diversity Talk: GAIA - Green Awareness Intelligent Assistant **(Coming up in May 2022)**
+1. AI4Diversity Conference: GAIA - Green Awareness Intelligent Assistant **(Coming up in May 2022)**
 
-1. [Queen of Tech Interview (Defined.ai)](https://www.youtube.com/watch?v=_wDGNeC5iWQ) (March 2022) 
+1. World Data League - Ask me Anything: AI, Data Science and Social Impact (April 2022)
+
+1. [Global Shapers Panel Discussion: Como conduzir o desenvimento de IA no Brasil?](https://www.youtube.com/watch?v=pzOoaHtNwJo&t=9s) (April 2022)
+
+1. [Defined.ai: Queen of Tech Interview - International Women's Day](https://www.youtube.com/watch?v=_wDGNeC5iWQ) (March 2022) 
+
+1. Panel Discussion: International Day of Women & Girls in Science (Prince Sultan University) (February 2022)
 
 1. [WiDS PSU 2022 Workshop: AI & ML Applications](https://www.youtube.com/watch?v=bK76xop2FAE) (January 2022)
 

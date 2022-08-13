@@ -43,11 +43,19 @@ Find below some of my side projects, selected for this repository:
 
 ## List of Talks (recordings in the links): ##
 
-1. Panel Discussion: AI & Art **(Coming up in May 2022 - in person)**
+1. Data Natives 2022: Panel Discussion - Changing Careers (August 2022)
 
-1. GoodTechFest 2022: Meet the AI Wonder Girls **(Coming up in May 2022)**
+1. Data Natives 2022: The Power of Time Series for Renewable Energies (August 2022) 
 
-1. AI4Diversity Conference: GAIA - Green Awareness Intelligent Assistant **(Coming up in May 2022)**
+1. Omdena: 3 Real-World Data Projects - Detecting Forest Fires (August 2022)
+
+1. ValleyML Conference: AI & Sustainability - Renewable Energies (August 2022)
+
+1. Panel Discussion: AI & Art (May 2022)
+
+1. GoodTechFest 2022: Meet the AI Wonder Girls (May 2022)
+
+1. AI4Diversity Conference: GAIA - Green Awareness Intelligent Assistant (May 2022)
 
 1. World Data League - Ask me Anything: AI, Data Science and Social Impact (April 2022)
 

@@ -6,9 +6,24 @@ In my free time, I love spending time in more relaxing activities, such as [pain
                                  <img src="photo.jpeg" width="400">
 
 
-I am passionate about `AI for good` and have been currently dedicating my career to technology for social impact, working with AI in partnership to the humanitarian sector and impact startups. 
+I am passionate about `AI for good` and am currently dedicating my career to technology for social impact, as a Senior Data Scientist in the energy sector. I have worked in the past also as a machine learning engineer, product owner and project manager together with NGOs in the humanitarian sector and impact startups. 
 
-Find below some of my side projects, selected for this repository:
+I am one of the founders and team leaders of the **AI Wonder Girls** team, which together with have collaborated to award winner open source projects: 
+
+1. **AI for Healthcare Hackathon** [(repository)](https://github.com/rogomes/AI-healthcare-hackathon) [(page)](https://devpost.com/software/track-1-challenge-5-medical-imaging-communication-tools) 🏆AI Applied To Medical Imaging - Track Winner + 🏆NVIDIA Prize 
+
+1. **MLOps for Good Hackathon** [(repository)](https://github.com/elateifsara/aiwondergirls-icu-ops) [(page)](https://devpost.com/software/child-safety) 🏆1st Prize Winner
+
+1. **SAAI Factory - Art & AI Hackathon** [(repository)](https://github.com/rogomes/AIWonderGirls-ATHENA-Art-Assistant) [(page)](https://devpost.com/software/athena-art-assistant) 🏆Especial Prize + exhibition of the work
+
+1. **Alibaba Climate Change Hackathon** [(repository)](https://github.com/rogomes/AIWonderGirls-Climate-Change-Mitigation-Assistant)
+
+1. **AWS Disaster Response Hackathon** [(repository)](https://github.com/aiwondergirls/aws-disaster-response) [(page)](https://devpost.com/software/ai-wonder-girls-disaster-response) 🏆Honorable Mention Prize
+
+1. **AWS Deep Learning Hackathon** [(repository)](https://github.com/aiwondergirls/aws-deep-learning) [(page)](https://devpost.com/software/ai-wonder-girls)
+
+
+Find below some of my other side projects, selected for this repository:
 
 1. [**Tetris Game:**](https://github.com/rogomes/portfolio/blob/master/tetris/tetris-pygame.ipynb) an implementation of Tetris using `pygame` created during the [*Build 2.0* workshop](https://thegirlcode.co/build/) hosted by *The Girl Code*.\
    *keywords:*  Python, Pygame\

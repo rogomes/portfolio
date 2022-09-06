@@ -43,7 +43,7 @@ Find below some of my side projects, selected for this repository:
 
 ## List of Talks (recordings in the links): ##
 
-1. Data Natives 2022: Panel Discussion - Changing Careers (August 2022)
+1. Data Natives 2022: Panel Discussion - Universities at the Forefront of Innovation and Technology (August 2022)
 
 1. Data Natives 2022: The Power of Time Series for Renewable Energies (August 2022) 
 
@@ -51,7 +51,7 @@ Find below some of my side projects, selected for this repository:
 
 1. ValleyML Conference: AI & Sustainability - Renewable Energies (August 2022)
 
-1. Panel Discussion: AI & Art (May 2022)
+1. SAAI Factory Expo Malta - Panel Discussion: AI & Art (May 2022)
 
 1. GoodTechFest 2022: Meet the AI Wonder Girls (May 2022)
 
@@ -71,7 +71,7 @@ Find below some of my side projects, selected for this repository:
 
 1. [WIDS PSU 2022 Workshop: Intro to Energy Consumption and the Climate Crisis](https://www.youtube.com/watch?v=nEMv9fymQfo) (January 2022)
 
-1. [Omdena Series: The Great Job Resignation](https://youtu.be/34TOteR-uBI) (December 2021)
+1. [Omdena Series: The Great Job Resignation](https://omdena.com/blog/why-data-scientists-leave-their-jobs/) (December 2021)
 
 1. Women Who Code: Ace Hackathon with the AI Wonder girls (November 2021)
 

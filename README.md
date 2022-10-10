@@ -62,11 +62,11 @@ Find below some of my other side projects, selected for this repository:
 
 1. Data Natives 2022: The Power of Time Series for Renewable Energies (August 2022) 
 
-1. Omdena: 3 Real-World Data Projects - Detecting Forest Fires (August 2022)
+1. [Omdena: 3 Real-World Data Projects - Detecting Forest Fires](https://www.youtube.com/watch?v=BhIuZXPM_LE) (August 2022)
 
 1. ValleyML Conference: AI & Sustainability - Renewable Energies (August 2022)
 
-1. SAAI Factory Expo Malta - Panel Discussion: AI & Art (May 2022)
+1. [SAAI Factory Expo Malta - Panel Discussion: AI & Art](https://www.youtube.com/watch?v=F4CJyS3ZBoc) (May 2022)
 
 1. GoodTechFest 2022: Meet the AI Wonder Girls (May 2022)
 

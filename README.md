@@ -70,7 +70,7 @@ Find below some of my other side projects, selected for this repository:
 
 1. GoodTechFest 2022: Meet the AI Wonder Girls (May 2022)
 
-1. AI4Diversity Conference: GAIA - Green Awareness Intelligent Assistant (May 2022)
+1. [AI4Diversity Conference: GAIA - Green Awareness Intelligent Assistant](https://www.linkedin.com/video/event/urn:li:ugcPost:6927957615352184832/) (May 2022)
 
 1. World Data League - Ask me Anything: AI, Data Science and Social Impact (April 2022)
 

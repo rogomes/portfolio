@@ -58,6 +58,20 @@ Find below some of my other side projects, selected for this repository:
 
 ## List of Talks (recordings in the links): ##
 
+1. PyData 2022 - A Dive into time series for the energy sector (December 2022)
+
+1. [DeepLearning.AI + Omdena: How to build a real-world project portfolio (host)](https://www.youtube.com/watch?v=ctpl3PMU-B4) (November 2022)
+
+1. 2022 Summit Astronomers for Planet Earth (A4E): Building technology solutions to sustainability from a background in astronomy (November 2022)
+
+1. DAEF - UFRGS: Discussao sobre Carreira em Ciencia de Dados (November 2022)
+
+1. Poatek Meetup: A look into the Brazilian energy scenario with AI (November 2022)
+
+1. AI Conclave 2.0 (VIT - Bhopal) : AI for Good Lecture (November 2022)
+
+1. KT - Poatek: AI in the Energy Sector (November 2022)
+
 1. Data Natives 2022: Panel Discussion - Universities at the Forefront of Innovation and Technology (August 2022)
 
 1. Data Natives 2022: The Power of Time Series for Renewable Energies (August 2022) 

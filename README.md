@@ -186,28 +186,28 @@ Find below some of my other side projects, selected for this repository:
 
 * Check [my Google Scholar](https://scholar.google.de/citations?user=zlXNBA0AAAAJ&hl=en) for publications in Astrophysics (Neutron Stars research)
 
-*[Time Series Compression Algorithms and Their Applications](https://dzone.com/articles/time-series-compression-algorithms-and-their-appli) *Published at DZone*
+* [Time Series Compression Algorithms and Their Applications](https://dzone.com/articles/time-series-compression-algorithms-and-their-appli) *Published at DZone (2022)*
 
-* [The effect of inhomogeneous carbon prices on the cost-optimal design of a simplified European power system](https://ieeexplore.ieee.org/abstract/document/9105371) *Published at IEEE*
+* [The effect of inhomogeneous carbon prices on the cost-optimal design of a simplified European power system](https://ieeexplore.ieee.org/abstract/document/9105371) *Published at IEEE (2020)*
 
 * [AI for disaster response: Predicting relief during cyclones](https://www.crisis-response.com/comment/blogpost.php?post=574) - *Published in the Crisis Response Blog*
 
-* [AI meets Art: can creativity be replicated?](https://rosana-gomes-phd.medium.com/ai-meets-art-can-creativity-be-replicated-430ec1e5ef80) - *Published in the Omdena Blog*
+* [AI meets Art: can creativity be replicated?](https://rosana-gomes-phd.medium.com/ai-meets-art-can-creativity-be-replicated-430ec1e5ef80) - *Published in the Omdena (2020)*
 
-* [Understanding Nature-Based Solutions through Natural Language Processing and Machine Learning](https://medium.com/omdena/understanding-nature-based-solutions-through-natural-language-processing-and-machine-learning-fdb79d416f02) - *Published in the Omdena Blog*
+* [Understanding Nature-Based Solutions through Natural Language Processing and Machine Learning](https://medium.com/omdena/understanding-nature-based-solutions-through-natural-language-processing-and-machine-learning-fdb79d416f02) - *Published in the Omdena Blog (2021)*
 
-* [Switching into Data Science](https://www.datacamp.com/community/blog/switching-into-data-science) - *Published at DataCamp*
+* [Switching into Data Science](https://www.datacamp.com/community/blog/switching-into-data-science) - *Published at DataCamp (2021)*
 
-* [Successfully Transitioning Into a Data Science Job in the Energy Sector](https://medium.com/omdena/successfully-transitioning-into-a-data-science-job-in-the-energy-sector-72b705faaacd) - *Published in the Omdena Blog*
+* [Successfully Transitioning Into a Data Science Job in the Energy Sector](https://medium.com/omdena/successfully-transitioning-into-a-data-science-job-in-the-energy-sector-72b705faaacd) - *Published in the Omdena Blog (2021)*
 
-* [Wind Energy Trade with Deep Learning — Time Series Forecasting](https://towardsdatascience.com/wind-energy-trade-with-deep-learning-time-series-forecasting-580bd41f163) - *Published in Towards Data Science*
+* [Wind Energy Trade with Deep Learning — Time Series Forecasting](https://towardsdatascience.com/wind-energy-trade-with-deep-learning-time-series-forecasting-580bd41f163) - *Published in Towards Data Science (2020)*
 
-* [Accelerating the Clean Energy Transition](https://omdena.com/blog/clean-energy/) - *Published in the Omdena Blog*
+* [Accelerating the Clean Energy Transition](https://omdena.com/blog/clean-energy/) - *Published in the Omdena Blog (2020)*
 
 * [The Trash We Make: Applying Machine Learning for Analyzing and Predicting Illegal Dumpsites](https://medium.com/omdena/the-trash-we-make-applying-machine-learning-for-analyzing-and-predicting-illegal-dumpsites-7aa0349989ad
-) - *Published in the Omdena Blog*
+) - *Published in the Omdena Blog (2020)*
 
-* [COVID-19 Policies: Where the Wealthy Become Poor & the Poor Become Poorer](https://medium.com/omdena/covid-19-policies-where-the-wealthy-become-poor-the-poor-become-poorer-757cad41458c?source=social.linkedin&_nonce=ZgY89gmU&_branch_match_id=494647957556010682) - *Published in the Omdena Blog*
+* [COVID-19 Policies: Where the Wealthy Become Poor & the Poor Become Poorer](https://medium.com/omdena/covid-19-policies-where-the-wealthy-become-poor-the-poor-become-poorer-757cad41458c?source=social.linkedin&_nonce=ZgY89gmU&_branch_match_id=494647957556010682) - *Published in the Omdena Blog (2020)*
 
 
 ## Recommendation of the Week Series ##

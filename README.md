@@ -60,9 +60,9 @@ Find below some of my other side projects, selected for this repository:
 
 1. PyData 2022 - A Dive into time series for the energy sector (December 2022)
 
-1. [DeepLearning.AI + Omdena: How to build a real-world project portfolio (host)](https://www.youtube.com/watch?v=ctpl3PMU-B4) (November 2022)
+1. [2022 Summit Astronomers for Planet Earth (A4E): From Astronomy to Sustainability](https://www.youtube.com/watch?v=DLvmbh9m3P8) (December 2022)
 
-1. [2022 Summit Astronomers for Planet Earth (A4E): From Astronomy to Sustainability](https://www.youtube.com/watch?v=DLvmbh9m3P8) (November 2022)
+1. [DeepLearning.AI + Omdena: How to build a real-world project portfolio (host)](https://www.youtube.com/watch?v=ctpl3PMU-B4) (November 2022)
 
 1. DAEF - UFRGS: Discussao sobre Carreira em Ciencia de Dados (November 2022)
 

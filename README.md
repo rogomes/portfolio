@@ -186,6 +186,8 @@ Find below some of my other side projects, selected for this repository:
 
 * Check [my Google Scholar](https://scholar.google.de/citations?user=zlXNBA0AAAAJ&hl=en) for publications in Astrophysics (Neutron Stars research)
 
+*[Time Series Compression Algorithms and Their Applications](https://dzone.com/articles/time-series-compression-algorithms-and-their-appli) *Published at DZone*
+
 * [The effect of inhomogeneous carbon prices on the cost-optimal design of a simplified European power system](https://ieeexplore.ieee.org/abstract/document/9105371) *Published at IEEE*
 
 * [AI for disaster response: Predicting relief during cyclones](https://www.crisis-response.com/comment/blogpost.php?post=574) - *Published in the Crisis Response Blog*

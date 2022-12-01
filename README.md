@@ -62,7 +62,7 @@ Find below some of my other side projects, selected for this repository:
 
 1. [DeepLearning.AI + Omdena: How to build a real-world project portfolio (host)](https://www.youtube.com/watch?v=ctpl3PMU-B4) (November 2022)
 
-1. 2022 Summit Astronomers for Planet Earth (A4E): Building technology solutions to sustainability from a background in astronomy (November 2022)
+1. [2022 Summit Astronomers for Planet Earth (A4E): From Astronomy to Sustainability](https://www.youtube.com/watch?v=DLvmbh9m3P8) (November 2022)
 
 1. DAEF - UFRGS: Discussao sobre Carreira em Ciencia de Dados (November 2022)
 

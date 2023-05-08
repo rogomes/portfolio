@@ -58,7 +58,7 @@ Find below some of my other side projects, selected for this repository:
 
 ## List of Talks (recordings in the links): ##
 
-1. PyData 2022 - A Dive into time series for the energy sector (December 2022)
+1. [PyData 2022 - A Dive into time series for the energy sector](https://youtu.be/X6SU23W6cCU) (December 2022)
 
 1. [2022 Summit Astronomers for Planet Earth (A4E): From Astronomy to Sustainability](https://www.youtube.com/watch?v=DLvmbh9m3P8) (December 2022)
 

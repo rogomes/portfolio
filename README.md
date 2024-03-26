@@ -56,9 +56,12 @@ Find below some of my other side projects, selected for this repository:
    *keywords:* Time Series, Neural Networks, Deep Learning, TensorFlow, Keras.   
    comment -->
 
-## List of Talks (recordings in the links): ##
+## Public Talks (linked recordings): ##
+1. [HAKOM Webinar: The Power of AI in the Energy Sector – A Focus on Time Series Management](https://www.youtube.com/watch?v=9P-CvZ-uVjw&t=1345s) (November 2023)
 
-1. [PyData 2022 - A Dive into time series for the energy sector](https://youtu.be/X6SU23W6cCU) (December 2022)
+1. Youth STEM Matters Research Conference: Spotlight on AI for Global Challenges (July 2023)
+
+1. [PyData 2022 - A Dive into time series for the energy sector](https://youtu.be/X6SU23W6cCU) (December 2023)
 
 1. [2022 Summit Astronomers for Planet Earth (A4E): From Astronomy to Sustainability](https://www.youtube.com/watch?v=DLvmbh9m3P8) (December 2022)
 
@@ -112,9 +115,9 @@ Find below some of my other side projects, selected for this repository:
 
 1. Moinworld: Meet the AI Wonder Girls (October 2021)
 
-1. Super Data Science Career Chats: Colearn students meeting (September 2021)
+1. Super Data Science Career Chats: Co-learn students meeting (September 2021)
 
-1. Kent State University (KSU) Colloquium: AI for Social Impact (September 2021)
+1. [Kent State University (KSU) Colloquium: AI for Social Impact](https://www.kent.edu/physics/physics-colloquium-fall-2021) (September 2021)
 
 1. Omdena Saudi Arabia Chapter: Introducing Omdena (September 2021)
 
